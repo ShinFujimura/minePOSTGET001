@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">minePOSTGET002</string>
+    <string name="word">Name </string>
+    <string name="hint1">Name</string>
+    <string name="hint2">Address</string>
+    <string name="post">post data</string>
+    <string name="browser">browser</string>
+</resources>
